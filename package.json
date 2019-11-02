@@ -1,0 +1,17 @@
+{
+  "name": "m3u8-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rushil Perera <pererarushil1940@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "env": "sync-dotenv"
+  },
+  "dependencies": {
+    "commander": "^4.0.0",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "sync-dotenv": "^2.2.1"
+  }
+}
