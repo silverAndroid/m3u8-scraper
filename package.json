@@ -12,7 +12,7 @@
     "commander": "^4.0.0",
     "dotenv": "^8.2.0",
     "level": "^6.0.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "sync-dotenv": "^2.2.1"
